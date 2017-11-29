@@ -22,6 +22,5 @@ public class GenericType {
         for(Object object : c){
             System.out.println(object);
         }
-
     }
 }
